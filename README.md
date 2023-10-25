@@ -1,7 +1,7 @@
 # Demo
 <!-- ![Home Page](images/homePage.png)
 ![Home Page](images/drawer.png) -->
-<img src="images/homePage.png" alt="Alt Text" height="200" width="200"/>
+<img src="images/homePage.png" alt="Alt Text" height="250"/>
 
 # Farm
 
