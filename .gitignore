@@ -1,0 +1,16 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+idea/
+.idea
+/idea
+./idea
+macos/
+.macos
+/macos
+./macos
+windows/
+.windows
+/windows
+./windows
