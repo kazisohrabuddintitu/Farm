@@ -1,8 +1,8 @@
 # Demo
-<!-- ![Home Page](images/homePage.png)
-![Home Page](images/drawer.png) -->
-<img src="images/homePage.png" alt="Alt Text" height="250"/>
-
+<p float="left">
+  <img src="images/homePage.png" alt="HomePage" height="250"/>
+  <img src="images/drawer.png" alt="Drawer" height="250"/>
+</p>
 # Farm
 
 This is an application using Flutter as front-end.
