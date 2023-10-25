@@ -165,15 +165,15 @@ class _HomeActivity extends State<HomeActivity>{
                         context,
                         MaterialPageRoute(builder: (context) => weightMeasure()),);}),
                     DashboardCard(title: 'Weight Records', onTap: (){}),
-                    DashboardCard(title: 'Box 4', onTap: (){
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(builder: (context) => profileForm()),);}),
-                    DashboardCard(title: 'Box 5', onTap: (){
-                      Navigator.push(context,
-                          MaterialPageRoute(builder: (context) => districtPage())
-                      );
-                    }),
+                    // DashboardCard(title: 'Box 4', onTap: (){
+                    //   Navigator.push(
+                    //     context,
+                    //     MaterialPageRoute(builder: (context) => profileForm()),);}),
+                    // DashboardCard(title: 'Box 5', onTap: (){
+                    //   Navigator.push(context,
+                    //       MaterialPageRoute(builder: (context) => districtPage())
+                    //   );
+                    // }),
 
                   ],
                 ),
